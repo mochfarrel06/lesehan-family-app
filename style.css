@@ -1,0 +1,28 @@
+body {
+    font-family: "Roboto Mono", monospace;
+}
+  
+.custom-primary {
+    color: #a34e44; /* Ubah warna teks sesuai kebutuhan */
+}
+
+.custom-text {
+    color: #727272;
+}
+
+.custom-secondary{
+    color: #EF8A7F;
+}
+
+.custom-bg-secondary{
+    background-color: #EF8A7F;
+}
+
+.custom-border {
+    color: #CCCCCC;
+}
+
+.custom-description{
+    color: #929292;
+}
+
